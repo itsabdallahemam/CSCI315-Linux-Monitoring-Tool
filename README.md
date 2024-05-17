@@ -1,10 +1,10 @@
 ### System Monitoring Tool
 
-Overview
+## Overview
 
 This C program monitors and reports system metrics such as CPU usage, memory usage, disk usage, running processes, network usage, system uptime, and battery status. It generates alerts for abnormal behavior and periodic health reports.
 
-Features
+## Features
 - CPU, Memory, Disk Usage: Monitor and display usage percentages.
 - Running Processes: Count currently running processes.
 - Network Usage: Track RX and TX data in MB.
