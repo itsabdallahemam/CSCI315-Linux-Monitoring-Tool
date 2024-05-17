@@ -9,4 +9,4 @@ Features
 - System Uptime: Display uptime in minutes.
 - Battery Status: Show battery capacity and status.
 - Alerts: High CPU, low memory, and low disk space alerts.
-- -eports: Generate periodic system health reports.
+- Reports: Generate periodic system health reports.
