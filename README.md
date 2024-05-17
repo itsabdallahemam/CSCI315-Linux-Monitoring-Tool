@@ -14,4 +14,4 @@ This C program monitors and reports system metrics such as CPU usage, memory usa
 - Reports: Generate periodic system health reports.
 
 ## Video Link
-https://nileuniversity-my.sharepoint.com/:v:/r/personal/a_ehab2141_nu_edu_eg/Documents/Recordings/CSCI315-Linux-Monitoring-Tool-20240517_212936-Meeting%20Recording.mp4?csf=1&web=1&e=WSTtg0&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI3ZWUxM2ZmMi03NzdkLTQ2NTQtYTNlMC0zZjc1NDRiNGIwMGIifX0%3D
+https://nileuniversity-my.sharepoint.com/:v:/g/personal/a_ehab2141_nu_edu_eg/Ee6VHXjazzNPvNkMXILAj68BBaGrbGgCSlBGXCYW0LSFSQ?e=hKafav&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
